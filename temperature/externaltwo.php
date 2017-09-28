@@ -16,5 +16,5 @@ if (isset($_POST['far'])) {
 	$cel = 5/9 * ($b - 32);
 	echo "Celsuis is ". $cel;
 }
-
+//second commit
 ?>
