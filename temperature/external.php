@@ -8,6 +8,7 @@ print_r($_POST);
 echo "</pre>";
 **/
 
+//I am just adding a comment
 echo "<p>Great,". $_POST['user']. " Enter value</p>";
 
 $name = $_POST['select'];
